@@ -1,16 +1,38 @@
-# pokemon_app
+### Pokemon App
+Pika, Pika, Pikachu! Know every detail about your favourite pokemon's right on your tips.
+One of the first simple apps I created while on my journey to learn flutter.
+##### Screenshots
 
-A new Flutter project.
+  <img src="https://github.com/ishandeveloper/Pokemon-App/blob/master/screenshots/1.jpg?raw=false" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Pokemon-App/blob/master/screenshots/2.jpg?raw=false" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Pokemon-App/blob/master/screenshots/3.jpg?raw=false" width="20%">
+  
 
-## Getting Started
+#### Dependencies
 
-This project is a starting point for a Flutter application.
+* Dart ['http' package](https://pub.dev/packages/http)
+* Uses [Pokedex JSON API](https://github.com/Biuni/PokemonGO-Pokedex)
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  ##### Clone the repository
+```bash
+git clone https://github.com/ishandeveloper/Pokemon-App.git
+```
+  ##### Move to the desired folder
+```bash
+cd \Pokemon-App
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  ##### To run the app, simply write
+```bash
+flutter run
+```
+####
+
+For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+##### Special Thanks To <a href="https://github.com/iampawan">@iampawan</a> sir's tutorials ;)
+
+##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
