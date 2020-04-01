@@ -1,6 +1,10 @@
 ### Pokemon App
 Pika, Pika, Pikachu! Know every detail about your favourite pokemon's right on your tips.
 One of the first simple apps I created while on my journey to learn flutter.
+
+##### Download APK
+<pre><a href="https://github.com/ishandeveloper/Pokemon-App/raw/master/app.apk">https://github.com/ishandeveloper/Pokemon-App/raw/master/app.apk</a></pre>
+
 ##### Screenshots
 
   <img src="https://github.com/ishandeveloper/Pokemon-App/blob/master/screenshots/1.jpg?raw=false" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Pokemon-App/blob/master/screenshots/2.jpg?raw=false" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Pokemon-App/blob/master/screenshots/3.jpg?raw=false" width="20%">
